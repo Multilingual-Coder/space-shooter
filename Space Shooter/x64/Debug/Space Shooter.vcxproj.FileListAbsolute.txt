@@ -1,2 +1,0 @@
-C:\Users\Taylor\Documents\Visual Studio 2019\Space Shooter\x64\Debug\Space Shooter.exe
-C:\Users\Taylor\Documents\Visual Studio 2019\Space Shooter\x64\Debug\Space Shooter.pdb
